@@ -6,7 +6,7 @@ subtitle: PhD student at <a href='http://ucl.ac.uk'>UCL</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>CERN</p>
