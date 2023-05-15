@@ -1,6 +1,6 @@
 ---
 layout: about
-title: home
+title: Home
 permalink: /
 subtitle: PhD student at <a href='http://ucl.ac.uk'>UCL</a>.
 
